@@ -1,0 +1,44 @@
+.btn{
+    width: 140px;
+    Height: 80px;
+
+    padding: 30px;
+    font-style: bold;
+    font-size:30px;
+    
+}
+.button-box {
+    width:100%;
+    text-align:center;
+    font-size:30px;
+}
+.par{
+    position:center;
+    text-align:center;
+    font-style: bold;
+    font-family:Arial Black;
+    font-size:25px;
+}
+.card{
+    border-radius:30px !important; 
+    background-color:#F5F5F5!important;
+    width:800;
+
+}
+.card{
+    padding:50px;
+
+}
+.container {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 20px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
